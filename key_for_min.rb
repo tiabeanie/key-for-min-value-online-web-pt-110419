@@ -1,6 +1,7 @@
 # prereqs: iterators, hashes, conditional logic
 # Given a hash with numeric values, return the key for the smallest value
 
+<<<<<<< HEAD
 def key_for_min_value(name_hash)
   smallest_value = nil 
   smallest_value_key = nil 
@@ -15,3 +16,5 @@ def key_for_min_value(name_hash)
     end 
     smallest_value_key
   end 
+=======
+>>>>>>> 6f8dbae320d30ec4e546bef0755fd5350390c9b1
